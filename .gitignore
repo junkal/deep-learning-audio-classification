@@ -9,7 +9,9 @@ __pycache__/
 #mac ds_store
 .DS_Store
 .ipynb_checkpoints
-
+*.wav
+*.pkl
+*.bin
 
 # Distribution / packaging
 .Python
